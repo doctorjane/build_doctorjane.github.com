@@ -47,6 +47,8 @@
 #   end
 # end
 
+set :build_dir, File.expand_path("~/workspace/doctorjane.github.com", __FILE__)
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
