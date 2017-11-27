@@ -30,5 +30,9 @@ Then visit http://localhost:3000 in your browser.
      
 ## DEPLOY UPDATED SITE ##
      
+Move to ~/workspace/doctorjane.github.com, commit and push.
+
+## UPDATE SOURCE REPO ##
+     
 Move to ~/workspace/build_doctorjane.github.com, commit and push.
 
