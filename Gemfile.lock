@@ -103,4 +103,7 @@ PLATFORMS
 
 DEPENDENCIES
   adsf
-  middleman (~> 3.0.9)
+  middleman
+
+BUNDLED WITH
+   1.16.0
